@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>  
+	<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.min.css'></link> 
+    <title>Document</title>
+
+</head>
+<body>
+	<div class="myDiv">
+		<h3>UNIVERSIDADES</h3>
+	</div>
+	<div>
+			<label for="">País</label>
+			
+			<select id="pais" class="content-select">
+				<option value="0">Seleccióna una opcion</option>
+				<option value="ALL">Ver Todos</option>
+				<option value="MX">México</option>
+				<option value="CL">Chile</option>
+				<option value="US">Estados Unidos</option>
+				<option value="ESP">España</option>
+				<option value="ARG">Argentina</option>
+				<option value="PE">Perú</option>
+			</select>
+		   	<label for="">Universidad</label>	
+			<input name="name" id="name" placeholder="Universidad..." type="text">
+			<input type="submit" id="filters" value="Buscar" name="filters" onclick="search()">
+		
+	</div>
+    <table id="mytable">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Ciudad</th>
+				<th>Universidad</th>
+			</tr>
+		</thead>
+		<tbody id="data-output">
+		</tbody>
+	</table>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+{ "evaluacion":[
+	{
+		"Alpha_two_code":"US",
+		"Country":"United States",
+		"Domains":"marywood.edu",
+		"Name":"Marywood University",
+		"StateProvince":"",
+		"web-pages":"http://www.marywood.edu"
+	},
+	{
+		"Alpha_two_code":"US",
+		"Country":"United States",
+		"Domains":"harvard.edu",
+		"Name":"Harvard University",
+		"StateProvince":"Massachusetts Hall, Cambridge, Massachusetts",
+		"web-pages":"https://www.harvard.edu/"
+	},
+	{
+		"Alpha_two_code":"US",
+		"Country":"United States",
+		"Domains":"stanford.edu",
+		"Name":"Stanford University",
+		"StateProvince":"Santa Clara, California",
+		"web-pages":"https://www.stanford.edu/"
+	},
+	{
+		"Alpha_two_code":"MX",
+		"Country":"México",
+		"Domains":"unam.mx",
+		"Name":"Universidad Nacional Autónoma de México",
+		"StateProvince":"Coyoacán Ciudad de México, México",
+		"web-pages":"https://www.unam.mx/"
+	},
+	{
+		"Alpha_two_code":"MX",
+		"Country":"México",
+		"Domains":"chapingo.mx",
+		"Name":"Universidad Autónoma de Chapingo",
+		"StateProvince":"Texcoco, estado de México, México",
+		"web-pages":"https://www.chapingo.mx/"
+	},
+	{
+		"Alpha_two_code":"MX",
+		"Country":"México",
+		"Domains":"udg.mx",
+		"Name":"Universidad de Guadalajara",
+		"StateProvince":"Guadalajara, Jalisco, México",
+		"web-pages":"https://www.udg.mx/"
+	},
+	{
+		"Alpha_two_code":"ARG",
+		"Country":"Argentina",
+		"Domains":"uba.ar",
+		"Name":"Universidad de Buenos Aires",
+		"StateProvince":"Viamonte, C1053 CABA, Argentina",
+		"web-pages":"https://www.uba.ar/"
+	},
+	{
+		"Alpha_two_code":"ARG",
+		"Country":"Argentina",
+		"Domains":"uba.ar",
+		"Name":"Universidad de Buenos Aires (UBA) CBC",
+		"StateProvince":"Viamonte, C1053 CABA, Argentina",
+		"web-pages":"http://www.cbc.uba.ar/"
+	},
+	{
+		"Alpha_two_code":"ARG",
+		"Country":"Argentina",
+		"Domains":"edu.ar",
+		"Name":"universidad tecnológica nacional (utn)",
+		"StateProvince":"Sarmiento 440 Buenos Aires, Argentina",
+		"web-pages":"http://www.utn.edu.ar/"
+	},
+	{
+		"Alpha_two_code":"ARG",
+		"Country":"Argentina",
+		"Domains":"edu.ar",
+		"Name":"Universidad Nacional de Luján (UNLU)",
+		"StateProvince":"Luján, Provincia de Buenos Aires, Argentina",
+		"web-pages":"www.unlu.edu.ar"
+	},
+	{
+		"Alpha_two_code":"ESP",
+		"Country":"España",
+		"Domains":"ual.es",
+		"Name":"Universidad de Almeria (UAL)",
+		"StateProvince":"La Cañada de San Urbano Almería, Andalucía, España",
+		"web-pages":"https://www.ual.es/"
+	},
+	{
+		"Alpha_two_code":"ESP",
+		"Country":"España",
+		"Domains":"ugr.es",
+		"Name":"Universidad de Granada (UGR)",
+		"StateProvince":"Granada, Andalucía, España",
+		"web-pages":"https://www.ugr.es/"
+	},
+	{
+		"Alpha_two_code":"ESP",
+		"Country":"España",
+		"Domains":"uimp.es",
+		"Name":"Universidad Internacional Menéndez Pelayo (UIMP)",
+		"StateProvince":"Madrid, España",
+		"web-pages":"http://www.uimp.es/"
+	},
+	{
+		"Alpha_two_code":"CL",
+		"Country":"Chile",
+		"Domains":"uchile.cl",
+		"Name":"Universidad de Chile (UCHILE)",
+		"StateProvince":"Providencia, Santiago, Región Metropolitana",
+		"web-pages":"https://www.uchile.cl"
+	},
+	{
+		"Alpha_two_code":"CL",
+		"Country":"Chile",
+		"Domains":"uantof.cl",
+		"Name":"Universidad de Antofagasta (UANTOF)",
+		"StateProvince":"Antofagasta, Región de Antofagasta, Chile",
+		"web-pages":"http://www.uantof.cl"
+	},
+	{
+		"Alpha_two_code":"CL",
+		"Country":"Chile",
+		"Domains":"uta.cl",
+		"Name":"Universidad de Tarapacá (UTA)",
+		"StateProvince":"Iquique, Tarapacá, Chile",
+		"web-pages":"https://www.uta.cl/"
+	},
+	{
+		"Alpha_two_code":"PE",
+		"Country":"Perú",
+		"Domains":"edu.pe",
+		"Name":"Universidad José Faustino Sánchez Carrión (UNJFSC)",
+		"StateProvince":"Bellavista Callao, Perú",
+		"web-pages":"www.unjfsc.edu.pe"
+	},
+	{
+		"Alpha_two_code":"PE",
+		"Country":"Perú",
+		"Domains":"edu.pe",
+		"Name":"Universidad Nacional del Callao (UNAC)",
+		"StateProvince":"Bellavista Callao, Perú",
+		"web-pages":"https://www.unac.edu.pe/"
+	},
+	{
+		"Alpha_two_code":"PE",
+		"Country":"Perú",
+		"Domains":"edu.pe",
+		"Name":"Universidad Nacional de Ingeniería - UNI",
+		"StateProvince":"Bellavista Callao, Perú",
+		"web-pages":"https://www.unac.edu.pe/"
+	},
+	{
+		"Alpha_two_code":"PE",
+		"Country":"Perú",
+		"Domains":"edu.pe",
+		"Name":"Universidad Nacional de Educación Enrique Guzmán y Valle (UNE)",
+		"StateProvince":"Bellavista Callao, Perú",
+		"web-pages":"https://www.une.edu.pe/uneweb/"
+	}
+]}
